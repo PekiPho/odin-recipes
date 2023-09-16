@@ -47,6 +47,6 @@ h2{
     position:fixed;
     bottom:0;
 }
-a,p{
+a,p,h1{
     margin-left: 20px;
 }
